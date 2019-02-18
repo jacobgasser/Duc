@@ -1,0 +1,28 @@
+{
+  "name": "duc",
+  "version": "1.0.0",
+  "description": "A Cooool Translation discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobgasser/duc.git"
+  },
+  "keywords": [
+    "discord",
+    "duc",
+    "translate"
+  ],
+  "author": "Jacob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobgasser/duc/issues"
+  },
+  "homepage": "https://github.com/jacobgasser/duc#readme",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^2.7.0",
+    "discord.js": "^11.4.2"
+  }
+}
